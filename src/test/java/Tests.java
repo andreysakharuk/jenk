@@ -9,8 +9,8 @@ public class Tests {
     }
 
     @Test
-    public void testShouldBe() {
-        Assert.assertTrue(true);
+    public void testShouldBeFailed() {
+        Assert.assertTrue(false);
     }
 
 }
